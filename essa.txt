@@ -2,3 +2,20 @@ git status
 git diff
 git add .
 git commit -m "Pierwszy komit"
+git push
+git fetch
+git pull
+
+git clone GITHUB
+ssh-keygen
+
+git log
+
+
+
+tworzenie nowych galezi
+git branch nazwa
+git checkout nazwa - przejscie do niej
+git merge - polaczenie
+
+git reser
